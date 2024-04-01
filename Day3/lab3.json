@@ -1,0 +1,18 @@
+{
+    "queue1": {
+        "items": [
+            10,
+            20
+        ],
+        "name": "queue1",
+        "size": 3
+    },
+    "queue2": {
+        "items": [
+            30,
+            40
+        ],
+        "name": "queue2",
+        "size": 3
+    }
+}
